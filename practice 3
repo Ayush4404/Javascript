@@ -4,3 +4,4 @@ for(let m of marks){
   sum+=m;
 }
 console.log("Avg marks of the class is: ",sum/marks.length);
+console.log(`Avg marks of the class is=${avg}`);
